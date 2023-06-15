@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2899],{87141:function(e,n,r){r.r(n),r.d(n,{ScheduledDeliveryRateAndTipDrawerDynamic:function(){return i}});var a=r(19525),c=r(57366);const i=()=>{const[e]=(0,c.Z)();return(0,a.Z)(e,{})};i.displayName="ScheduledDeliveryRateAndTipDrawerDynamic"}}]);

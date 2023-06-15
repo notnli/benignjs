@@ -1,0 +1,1 @@
+document.write("<div style=\"width:150px;height:20px;position:relative;z-index:1;\">");document.write('<a href="http://www.caijing.com.cn/221008/" target="_blank"><font>党的二十大胜利召开</font></a>');document.write("</div>");

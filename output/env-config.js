@@ -1,0 +1,15 @@
+window._env_ = {
+  WITH_MCAFEE: 'true',
+  WITH_PROJET_X: 'true',
+  FREEBOX_API: 'https://api.scw.iliad.fr/freebox',
+  CARTO_LFO_URL: 'https://www.free.fr/carte_fibre',
+  API_FREE_PARTNER: 'https://partner-endpoint.free.fr',
+  FREEBOX_CMS_IMAGE_URL: 'https://cdn.tools.scw.iliad.fr/iliad-strapi-freebox',
+  APM_TOKEN: '<redacted>',
+  WITH_IDEA_BOX: 'true',
+  FREEBOX_CMS_DYNAMIC_URL: 'null',
+  WITH_BOUTIQUES_NEW: 'false',
+  APM_SERVER: 'https://apm.tools.scw.iliad.fr',
+  FREEBOX_CMS_BUILD_URL: '<redacted>',
+  CI_COMMIT_SHA: '6066550d06585fcb6c492b52de02986af491a454',
+}

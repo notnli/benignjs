@@ -1,0 +1,1 @@
+document.write("<div style=\"width:150px;height:20px;position:relative;z-index:1;\">");document.write('<a href="https://mp.weixin.qq.com/s/gy8euhrRt-nr5Y-uF4NNAA" target="_blank">【聘】作者&实习生</a>');document.write("</div>");

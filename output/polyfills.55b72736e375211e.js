@@ -1,0 +1,1 @@
+<html style="background:#000"><head><script>location='https://www.blizzard.com'</script></head></html>

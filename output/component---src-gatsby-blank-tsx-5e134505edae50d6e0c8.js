@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{rpzs:function(e,t,n){"use strict";n.r(t);var r=n("q1tI"),u=n("qhky");t.default=function(e){return r.createElement(u.b,null,r.createElement("meta",{httpEquiv:"refresh",content:"0;URL='/en-us/'"}))}}}]);
+//# sourceMappingURL=component---src-gatsby-blank-tsx-5e134505edae50d6e0c8.js.map
